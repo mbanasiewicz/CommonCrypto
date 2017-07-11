@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
   spec.name         = 'CommonCrypto'
   spec.version      = '0.0.1'
-  spec.license      = { :type => 'BSD' }
+  spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/mbanasiewicz/CommonCrypto'
   spec.authors      = { 'Maciej Banasiewicz' => 'mbanasiewicz@gmail.com' }
   spec.summary      = 'CommonCrypto wrapper'
